@@ -1,0 +1,9 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Acer\\Downloads\\mysql-connector-java-8.0.28.jar"
+    ]
+}
